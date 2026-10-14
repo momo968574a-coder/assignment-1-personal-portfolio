@@ -1,0 +1,236 @@
+
+/* Header */
+.header {
+    text-align: center;
+    background-color: #1e4f80;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.header h1 {
+    margin: 10px;
+    color: white;
+}
+
+.header p {
+    margin: 15px;
+    color: #a9d3ff;
+}
+
+.header a {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #47749e;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+
+/* About Me */
+.about {
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.about h2 {
+    color: #1e4f80;
+    margin-top: 0;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.about img {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    float: left;
+    margin-right: 25px;
+}
+
+.text {
+    float: left;
+    width: 400px;
+}
+
+.text span {
+    color: blue;
+}
+
+.text p {
+    color: black;
+    margin: 10px 0;
+}
+
+.text a {
+    display: inline-block;
+    background-color: #1e4f80;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+
+/* Clear */
+.clear {
+    clear: both;
+}
+
+
+/* Skills */
+.skills {
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.skills h2 {
+    color: #1e4f80;
+    margin-bottom: 10px;
+    margin-top: 0;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+}
+
+.skills p {
+    margin-bottom: 25px;
+}
+
+.skill-card {
+    width: 22%;
+    float: left;
+    margin-right: 2%;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.skill-card h3 {
+    color: #1e4f80;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+
+/* Experience */
+.experience {
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.experience h2 {
+    color: #1e4f80;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+}
+
+.exp-card {
+    border-left: 5px solid blue;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.experience img {
+    background-color: #f0f9ff;
+    border: 1px solid #e0f2fe;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.exp-details {
+    float: left;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.exp-details h3 {
+    margin: 0 0 20px 0;
+}
+
+.exp-details span {
+    color: #315f8b;
+    font-weight: bold;
+    margin: 0 5px;
+}
+.exp-card .data {
+    clear: both;
+    margin: 10px 0 0;
+    line-height: 1.6;
+}
+
+
+/* Contact */
+.contact {
+    background-color: #1e4f80;
+    color: white;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.contact h2 {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #47749e;
+    padding-bottom: 15px;
+}
+
+.contact p {
+    color: #dbeafe;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.contact-links a {
+    display: inline-block;
+    background-color: #163d63;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #47749e;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+
+/* Footer */
+.footer {
+    background-color: #0b1f33;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.footer p {
+    margin: 0;
+    color: #a0aec0;
+}
+
+.footer span {
+    color: #60a5fa;
+}
